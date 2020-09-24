@@ -1,6 +1,8 @@
 import React, { Component } from 'react'
 import Cabecera from '../componets/Cabecera'
 import Navegador from '../componets/Navegador'
+import '../styles/inicio.css'
+import imagen from '../images/espigon.jpg'
 
 class Inicio extends Component {
     render(){
@@ -10,6 +12,7 @@ class Inicio extends Component {
                 <Cabecera
                     title="Día de Pesca"
                     subtitle="Bienvenidos"
+                    img = {imagen}
                 />
                       
             </React.Fragment>

@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-//import './styles/Cabecera.css'
+import './styles/cabecera.css'
 
 class Cabecera extends Component{
     

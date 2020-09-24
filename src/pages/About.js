@@ -9,7 +9,7 @@ class About extends Component {
                 <Navegador/>
                 <Cabecera
                     title="Día de Pesca"
-                    subtitle="Bienvenidos"
+                    subtitle="Sobre nosotros..."
                 />
                       
             </React.Fragment>

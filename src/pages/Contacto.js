@@ -9,7 +9,7 @@ class Contacto extends Component {
                 <Navegador/>
                 <Cabecera
                     title="Día de Pesca"
-                    subtitle="Bienvenidos"
+                    subtitle="Contacto"
                 />
                       
             </React.Fragment>
